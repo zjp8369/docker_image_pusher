@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 alpine:3.17.10
 mysql:8.0.26
+ubuntu:22.04
