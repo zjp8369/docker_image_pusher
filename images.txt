@@ -8,3 +8,4 @@ alpine:3.17.10
 mysql:8.0.26
 ubuntu:22.04
 ubuntu:focal
+ubuntu:20.04
