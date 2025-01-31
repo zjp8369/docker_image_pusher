@@ -11,3 +11,4 @@ ubuntu:18.04
 ubuntu:20.04
 ubuntu:22.04
 ghcr.io/open-webui/open-webui:main
+ollama/ollama
