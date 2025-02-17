@@ -6,12 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #alpine:3.17.10
 #mysql:8.0.26
-ubuntu:16.04
-ubuntu:18.04
-ubuntu:20.04
-ubuntu:22.04
-ghcr.io/open-webui/open-webui:main
-ollama/ollama
-mintplexlabs/anythingllm
-redis:7
 onlyoffice/onlyoffice-notify:3.0.1.1
