@@ -14,3 +14,4 @@ ghcr.io/open-webui/open-webui:main
 ollama/ollama
 mintplexlabs/anythingllm
 redis:7
+onlyoffice/onlyoffice-notify:3.0.1.1
