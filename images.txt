@@ -5,4 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #alpine:3.17.10
 #mysql:8.0.26
-jacekkow/gitblit:v1.9.1
+mpromonet/webrtc-streamer
