@@ -5,4 +5,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #alpine:3.17.10
 #mysql:8.0.26
-harmonyos/build-env
+tensorflow/tensorflow:2.18.0-cpu-py310
+tensorflow/tensorflow:2.18.0-gpu-py310
+tensorflow/tensorflow:2.18.0-cpu-py310-jupyter
+tensorflow/tensorflow:2.18.0-gpu-py310-jupyter
