@@ -5,4 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #alpine:3.17.10
 #mysql:8.0.26
-fizmath/gpu-opencv
+m1l0/opencv:4.5.5-cuda11.8.0-cudnn8-python3.10.9-ubuntu22.04
