@@ -7,4 +7,4 @@
 #mysql:8.0.26
 #opendronemap/odm
 #opendronemap/odm:gpu
-docker.osgeo.org/geoserver:2.27.5
+jlny/codex-rosetta:latest
